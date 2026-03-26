@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5a27,50:c45c1a,100:8b4513&height=200&section=header&text=hey%2C%20I%27m%20Ayo%20👋🏿&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=data%20scientist%20in%20the%20making%20·%20turning%20data%20into%20decisions&descAlignY=56&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3d1a,40:2d5a27,100:c45c1a&height=220&section=header&text=hey%2C%20I%27m%20Ayo&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=data%20scientist%20in%20the%20making%20·%20turning%20data%20into%20decisions&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C45C1A&center=true&vCenter=true&width=500&lines=👋🏿+hey%2C+I'm+Ayo!;data+scientist+in+the+making+📊;python+enjoyer+🐍;rock+music+%2B+debugging+%3D+❤️" alt="Typing SVG" />
 </p>
 
 <p align="center">
