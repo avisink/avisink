@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d3b2e,100:1a5c45&height=220&section=header&text=hey%2C%20I%27m%20Ayo%20%F0%9F%91%8B%F0%9F%8F%BF&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=data%20scientist%20in%20the%20making%20%C2%B7%20turning%20data%20into%20decisions&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C45C1A&center=true&vCenter=true&width=500&lines=👋🏿+hey%2C+I'm+Ayo!;data+scientist+in+the+making+📊;python+enjoyer+🐍;rock+music+%2B+debugging+%3D+❤️" alt="Typing SVG" />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3d6b35&center=true&vCenter=true&width=500&lines=console.log(%22open+to+opportunities+%F0%9F%91%80%22);git+commit+-m+%22ship+it%22;while(alive)+%7B+eat();+sleep();+code();+%7D;sudo+make+coffee+%26%26+python+train.py" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://avisink.github.io">
