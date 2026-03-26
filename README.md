@@ -20,15 +20,15 @@ ayo = {
     "building":  "cool stuff — check my repos 👀",
     "learning":  "Docker & containerized systems",
     "stack":     ["Python", "Jupyter", "React", "Swift"],
-    "aspiring":  "data scientist 📊",
-    "vibe":      "debugging to rock music since forever 🎸",
+    "aspiring":  "data scientist",
+    "vibe":      "debugging to rock music is fye, just saying",
     "reach_me":  "avisink.github.io"
 }
 ```
 
 ---
 
-### 🛠 &nbsp;tech stack
+### &nbsp;tech stack
 
 **data science**
 
@@ -57,7 +57,7 @@ ayo = {
 
 ---
 
-### 📊 &nbsp;github stats
+### &nbsp;github stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avisink&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=c45c1a&icon_color=3d6b35&text_color=d4c5a9&bg_color=0d1117" height="170"/>
