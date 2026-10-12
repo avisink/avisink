@@ -1,0 +1,29 @@
+name: daily check-in
+
+on:
+  schedule:
+    - cron: "17 14 * * *" # once a day at 14:17 UTC
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: append today's entry
+        run: |
+          mkdir -p .github/checkins
+          echo "$(date -u '+%Y-%m-%d %H:%M UTC') · still building 💜" >> .github/checkins/log.md
+
+      - name: commit & push
+        # authored with your noreply email so GitHub counts it toward your contribution graph
+        run: |
+          git config user.name "Ayomide"
+          git config user.email "105446194+avisink@users.noreply.github.com"
+          git add .github/checkins/log.md
+          git commit -m "daily check-in: $(date -u '+%Y-%m-%d')"
+          git push
