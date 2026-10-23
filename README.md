@@ -21,7 +21,7 @@ ayo = {
     "building":  "full-stack apps & ML-powered tools — check my repos 👀",
     "learning":  "Docker, system design & building with LLMs",
     "stack":     ["Python", "JavaScript", "React", "Node.js", "PostgreSQL", "PyTorch"],
-    "vibe":      "debugging to rock music is fye, just saying",
+    "vibe":      "debugging to amapiano & afrobeats is just peak, just saying",
     "fav_color": "purple 💜",
     "reach_me":  "avisink.github.io"
 }
