@@ -1,89 +1,95 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b2a86,100:9d4edd&height=220&section=header&text=hey%2C%20I%27m%20Ayo%20%F0%9F%91%8B%F0%9F%8F%BF&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=software%20engineer%20%C3%97%20data%20scientist%20%C2%B7%20building%20things%20that%20ship&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b2a86,100:9d4edd&height=200&section=header&text=Ayomide%20(Ayo)%20Isinkaye&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%2C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ayomide (Ayo) Isinkaye, Software Engineer, AI/ML"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=console.log(%22open+to+collaborating+opportunities+%F0%9F%91%80%22);git+commit+-m+%22ship+it%22;while(alive)+%7B+eat()+%F0%9F%8D%BD%EF%B8%8F;+sleep()+%F0%9F%92%A4;+code()+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;+drink+lots+of+matcha+%F0%9F%8D%B5+%7D;npm+run+dev+%26%26+python+train.py" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://avisink.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-avisink.github.io-9d4edd?style=for-the-badge&labelColor=3c096c&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=avisink&color=9d4edd&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <a href="mailto:avisinkaye@htu.edu"><img src="https://img.shields.io/badge/Email-avisinkaye%40htu.edu-5b2a86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/avisinkaye"><img src="https://img.shields.io/badge/LinkedIn-avisinkaye-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://avisink.github.io"><img src="https://img.shields.io/badge/Portfolio-avisink.github.io-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
+
+### About me
+
+I'm a Computer Science and Mathematics student at Huston-Tillotson University working toward a career as a **Software Engineer in AI/ML**. I build machine learning systems that are measurable and grounded, from evaluation harnesses and NLP pipelines to the full-stack apps that put them in front of users. I'm currently a Break Through Tech AI Studio Fellow, building a responsible-AI neighborhood recommender with Flow.
+
 ```python
 ayo = {
-    "role":      "software engineer × data scientist",
-    "building":  "full-stack apps & ML-powered tools — check my repos 👀",
+    "role":      "Software Engineer, AI/ML",
+    "education": "B.S. Computer Science & Mathematics, Huston-Tillotson University (May 2027)",
+    "building":  "recommender systems, grounded LLM agents & full-stack apps",
     "learning":  "Docker, system design & building with LLMs",
-    "stack":     ["Python", "JavaScript", "React", "Node.js", "PostgreSQL", "PyTorch"],
-    "vibe":      "debugging to amapiano & afrobeats is just peak, just saying",
-    "fav_color": "purple 💜",
-    "reach_me":  "avisink.github.io"
+    "fuel":      "lots of matcha 🍵 and amapiano & afrobeats 🎶",
 }
 ```
 
 ---
 
-### &nbsp;tech stack
+### Experience
 
-**languages**
+**Break Through Tech AI Studio** · AI Studio Fellow · Sep 2026 – Dec 2026<br/>
+*Challenge Advisor: Karla Reyes, AI Engineer at Flow*<br/>
+**Project:** [Responsible AI for Personalized Neighborhood Recommendations](https://github.com/Break-Through-Tech/Flow-1A-responsible-ai-prototype-for-personalized-neighborhood-recommendations): a recommendation engine, MCP server and LLM agent that help newcomers to Miami compare neighborhoods using only grounded data, never invented rents or listings.
+
+- Built the recommendation engine's evaluation harness (Precision@3/5, mean cosine similarity, budget-filter pass rate) as a single CI-ready command, which the team used to record its September baseline.
+- Replaced the starter data with live 2020–2024 Census ACS pulls and built an explainable NLP theme extractor (with a theme-coverage metric) that powers the `crowd_themes` MCP tool.
+
+### Education
+
+**B.S. Computer Science & Mathematics**, Huston-Tillotson University · Expected May 2027
+
+---
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [Responsible AI Neighborhood Recommender](https://github.com/Break-Through-Tech/Flow-1A-responsible-ai-prototype-for-personalized-neighborhood-recommendations) | Break Through Tech AI Studio team project with Flow: grounded recommender, MCP tools and LLM agent | Python, pandas, scikit-learn, MCP |
+| [Patient Health Clustering](https://github.com/avisink/COSC_3327_Patient_Clustering) | K-Means segmentation of 300 patients into three health profiles, with PCA visualization | Python, scikit-learn, matplotlib, Jupyter |
+| [Health Risk Intelligence](https://github.com/avisink/Health_ML_Project) | Unsupervised health-persona discovery on 246K survey records (work in progress) | Python, scikit-learn, PCA |
+| [VolunteerGo](https://github.com/avisink/VolunteerGo) | Gamified volunteer-matching platform with embedding-based opportunity search | React, Node.js, Python, Firebase |
+
+---
+
+### Tech stack
+
+**AI/ML & data**
 
 ![Python](https://img.shields.io/badge/Python-5b2a86?style=for-the-badge&logo=python&logoColor=ffd43b)
-![JavaScript](https://img.shields.io/badge/JavaScript-7b2cbf?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Java](https://img.shields.io/badge/Java-3c096c?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9d4edd?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-5b2a86?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7b2cbf?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3c096c?style=for-the-badge&logo=css3&logoColor=white)
-
-**software engineering**
-
-![React](https://img.shields.io/badge/React-5b2a86?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-7b2cbf?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-3c096c?style=for-the-badge&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9d4edd?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-5b2a86?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-7b2cbf?style=for-the-badge&logo=firebase&logoColor=ffca28)
-
-**data science & ML**
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7b2cbf?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-3c096c?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-9d4edd?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-5b2a86?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7b2cbf?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-3c096c?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-9d4edd?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-5b2a86?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-7b2cbf?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-3c096c?style=for-the-badge&logo=pytorch&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-9d4edd?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
-**tools & infra**
+**Software engineering**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-5b2a86?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-7b2cbf?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-3c096c?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9d4edd?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-5b2a86?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Java](https://img.shields.io/badge/Java-7b2cbf?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-3c096c?style=for-the-badge&logo=swift&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-5b2a86?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7b2cbf?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-3c096c?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-7b2cbf?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3c096c?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-9d4edd?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-5b2a86?style=for-the-badge&logo=postman&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-7b2cbf?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-### &nbsp;github stats
+### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisink&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&bg_color=10002b" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisink&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=10002b" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avisink&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&bg_color=10002b" height="165" alt="Ayo's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=avisink&hide_border=true&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff&background=10002b&dates=e0aaff&currStreakNum=ffffff&sideLabels=e0aaff&sideNums=ffffff&stroke=5b2a86" width="70%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5b2a86,100:1a0b2e&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5b2a86,100:1a0b2e&height=100&section=footer" width="100%" alt=""/>
 </p>
