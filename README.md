@@ -46,7 +46,7 @@ ayo = {
 | Project | What it is | Stack |
 |---------|------------|-------|
 | [Responsible AI Neighborhood Recommender](https://github.com/Break-Through-Tech/Flow-1A-responsible-ai-prototype-for-personalized-neighborhood-recommendations) | Break Through Tech AI Studio team project with Flow: grounded recommender, MCP tools and LLM agent | Python, pandas, scikit-learn, MCP |
-| [Patient Health Clustering](https://github.com/avisink/COSC_3327_Patient_Clustering) | K-Means segmentation of 300 patients into three health profiles, with PCA visualization | Python, scikit-learn, matplotlib, Jupyter |
+| [Patient Health Clustering](https://github.com/avisink/COSC_3327_Patient_Clustering) | Team course project: K-Means segmentation of 300 patients into three health profiles, with PCA visualization | Python, scikit-learn, matplotlib, Jupyter |
 | [Health Risk Intelligence](https://github.com/avisink/Health_ML_Project) | Unsupervised health-persona discovery on 246K survey records (work in progress) | Python, scikit-learn, PCA |
 | [VolunteerGo](https://github.com/avisink/VolunteerGo) | Gamified volunteer-matching platform with embedding-based opportunity search | React, Node.js, Python, Firebase |
 
